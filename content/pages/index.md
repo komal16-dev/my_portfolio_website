@@ -145,7 +145,7 @@ sections:
     actions: []
     columns: 2
     spacingX: 50
-    spacingY: 16
+    spacingY: 50
     enableHover: true
     styles:
       self:

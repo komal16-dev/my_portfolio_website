@@ -62,7 +62,7 @@ sections:
             borderStyle: dotted
     actions: []
     columns: 1
-    spacingX: 16
+    spacingX: 30
     spacingY: 30
     enableHover: false
     styles:

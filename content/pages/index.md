@@ -75,7 +75,7 @@ sections:
           - pl-4
         justifyContent: center
         borderRadius: x-large
-        borderColor: border-primary
+        borderColor: border-complementary
         borderWidth: 3
         borderStyle: double
       quote:

@@ -66,7 +66,7 @@ sections:
 
 
     name: Jodi Picoult
-    title: American Author
+    title: American Author w
     styles:
       self:
         height: auto

@@ -33,6 +33,7 @@ sections:
         url: /projects
         iconPosition: right
         elementId: '1'
+        altText: ..
     media:
       type: ImageBlock
       url: /images/hero-2.png

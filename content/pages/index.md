@@ -23,7 +23,7 @@ sections:
       - type: Link
         label: Learn more
         altText: ''
-        url: '/https://www.linkedin.com/in/komal-gangurde/'
+        url: 'https://www.linkedin.com/in/komal-gangurde/'
         showIcon: false
         icon: arrowRight
         iconPosition: right

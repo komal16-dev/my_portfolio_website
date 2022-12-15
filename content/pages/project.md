@@ -24,7 +24,6 @@ sections:
     showReadMoreLink: true
     readMoreLinkLabel: Join adventure
     posts:
-      - content/pages/blog/post-two.md
       - content/pages/blog/post-three.md
     styles:
       self:

@@ -72,7 +72,7 @@ sections:
           - pt-5
           - pb-5
           - pr-5
-          - pl-1
+          - pl-5
         justifyContent: center
         borderRadius: x-large
         borderColor: border-primary

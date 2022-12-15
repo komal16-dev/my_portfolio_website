@@ -97,7 +97,7 @@ sections:
     actions:
       - type: Link
         label: See all adventures
-        url: /blog
+        url: /projects
         showIcon: true
         icon: arrowRight
     posts:

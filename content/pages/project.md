@@ -58,6 +58,7 @@ sections:
               - pr-24
             borderColor: border-dark
             borderRadius: medium
+            borderWidth: 2
     actions: []
     columns: 1
     spacingX: 16

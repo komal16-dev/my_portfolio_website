@@ -65,7 +65,7 @@ sections:
 
 
 
-    name: Isabelle Parks
+    name: Jodi Picoult
     title: Head chef at Parks
     styles:
       self:

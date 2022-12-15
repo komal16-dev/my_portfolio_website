@@ -33,6 +33,7 @@ sections:
             borderRadius: medium
             borderColor: border-dark
             borderWidth: 2
+            borderStyle: dotted
         subtitle: Ali Ahmed's YouTube Channel
       - type: FeaturedItem
         title: Smarter

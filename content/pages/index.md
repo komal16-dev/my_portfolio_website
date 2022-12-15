@@ -84,7 +84,7 @@ sections:
       title:
         textAlign: center
   - elementId: ''
-    colors: colors-c
+    colors: colors-b
     variant: variant-a
     title: Seasonal adventures
     actions:

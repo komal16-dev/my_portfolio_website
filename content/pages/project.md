@@ -29,6 +29,7 @@ sections:
         styles:
           self:
             textAlign: left
+        subtitle: 'Ali Ahmed''s '
       - type: FeaturedItem
         title: Smarter
         text: >-

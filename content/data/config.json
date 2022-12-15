@@ -17,18 +17,18 @@
             },
             {
                 "type": "Link",
+                "label": "About",
+                "url": "/about",
+                "altText": ""
+            },
+            {
+                "type": "Link",
                 "label": "Projects",
                 "altText": "",
                 "url": "/projects",
                 "showIcon": false,
                 "iconPosition": "right",
                 "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "About",
-                "url": "/about",
-                "altText": ""
             }
         ],
         "secondaryLinks": [

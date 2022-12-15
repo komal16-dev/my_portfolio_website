@@ -71,7 +71,7 @@ sections:
         padding:
           - pt-5
           - pb-36
-          - pr-4
+          - pr-5
           - pl-1
         justifyContent: center
         borderRadius: x-large

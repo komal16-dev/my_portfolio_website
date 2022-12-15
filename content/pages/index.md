@@ -20,7 +20,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Hey! I'm Komal - An Aspiring Data Analyst
-    subtitle: Learning.Creativity.Curiosity.
+    subtitle: Learning. Creativity.Curiosity.
     text: |+
 
 

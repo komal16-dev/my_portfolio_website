@@ -56,7 +56,7 @@ sections:
             borderRadius: medium
             borderWidth: 2
             borderStyle: dotted
-        subtitle: Impo
+        subtitle: Import
     actions: []
     columns: 1
     spacingX: 30

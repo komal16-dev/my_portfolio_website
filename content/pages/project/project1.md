@@ -37,7 +37,7 @@ sections:
           elementId: ''
     actions: []
     columns: 1
-    spacingX: 16
+    spacingX: 55
     spacingY: 16
     enableHover: false
     styles:

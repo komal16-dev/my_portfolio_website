@@ -135,6 +135,7 @@ sections:
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
+        subtitle: Import and Export of India
     actions: []
     columns: 2
     spacingX: 50

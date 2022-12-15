@@ -70,14 +70,7 @@
             "addressAltText": "Our address"
         },
         "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Contact us",
-                "url": "mailto:info@lorem.mail",
-                "altText": ""
-            }
-        ],
+        "primaryLinks": [],
         "socialLinks": [
             {
                 "type": "Social",

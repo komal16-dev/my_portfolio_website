@@ -112,7 +112,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/youtube_api-d049149c.png
-          altText: altText of the image
+          altText: Youtube API
           caption: Caption of the image
           elementId: ''
         subtitle: Analyzing Ali Ahmed's Channel

@@ -69,7 +69,7 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-5
+          - pt-7
           - pb-5
           - pr-5
           - pl-5

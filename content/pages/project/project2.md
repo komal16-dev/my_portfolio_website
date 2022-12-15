@@ -81,7 +81,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: 'Interactive '
+    title: Interactive Dashboard
   - type: TextSection
     colors: colors-d
     variant: variant-a

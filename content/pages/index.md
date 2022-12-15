@@ -133,7 +133,7 @@ sections:
     showExcerpt: true
     showReadMoreLink: true
     showAuthor: false
-    readMoreLinkLabel: ad more
+    readMoreLinkLabel: rRead more
   - type: TextSection
     colors: colors-e
     variant: variant-a

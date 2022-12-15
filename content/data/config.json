@@ -32,7 +32,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Blogs",
                 "altText": "",
                 "url": "/blog",
                 "showIcon": false,

@@ -59,7 +59,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: QuoteSection
-    colors: colors-d
+    colors: colors-c
     quote: |+
       "You can always edit a bad page. You can’t edit a blank page"
 

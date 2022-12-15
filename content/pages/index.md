@@ -27,6 +27,14 @@ sections:
         icon: linkedin
         iconPosition: right
         elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: 'https://github.com/komal16-dev'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/hero-2.png

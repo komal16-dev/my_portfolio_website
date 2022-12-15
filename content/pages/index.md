@@ -146,7 +146,7 @@ sections:
             label: Read More
             altText: ''
             url: /project
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             elementId: ''

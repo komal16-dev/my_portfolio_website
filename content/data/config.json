@@ -90,7 +90,8 @@
             {
                 "type": "Link",
                 "label": "Privacy Policy",
-                "url": "/"
+                "url": "/",
+                "iconPosition": "right"
             },
             {
                 "type": "Link",

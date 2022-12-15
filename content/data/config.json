@@ -20,6 +20,16 @@
                 "label": "About",
                 "url": "/about",
                 "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/projects",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "secondaryLinks": [

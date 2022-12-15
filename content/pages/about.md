@@ -19,13 +19,7 @@ sections:
     colors: colors-d
     variant: variant-a
     title: About Me
-    text: >-
-      For us fishing is a life style. The connection to the waters is what makes
-      us friends, and what makes us a family and it what makes us a business.
-
-
-      We believe there’s a better, more sustainable way to live out of what the
-      sea has to offer, while  keeping our products fresh and delicious.
+    text: "Hello there! This is Komal**\U0001F64C\U0001F3FD**\n\nI'm an aspiring data analyst who likes to play with data for extracting useful information and visualize it accurately for easy understanding..\n\nIn my free time I love to listen to music and watch drama\n\n\n\n\n\n\n\n \n"
     styles:
       self:
         height: auto

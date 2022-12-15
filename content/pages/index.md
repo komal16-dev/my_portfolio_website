@@ -125,7 +125,7 @@ sections:
             showIcon: true
             icon: arrowRight
             url: /project/project2
-            style: secondary
+            style: primary
         styles:
           self:
             textAlign: left

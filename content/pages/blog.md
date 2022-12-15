@@ -9,7 +9,6 @@ title: Blog names
 sections:
   - type: HeroSection
     colors: colors-d
-    subtitle: Fresh. Better. Faster.
     actions:
       - type: Button
         label: Get Started

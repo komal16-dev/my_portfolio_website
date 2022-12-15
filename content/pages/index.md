@@ -119,6 +119,7 @@ sections:
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
+        subtitle: Analyzing Ali Ahmed's Channel
       - type: FeaturedItem
         title: Smarter
         text: >-

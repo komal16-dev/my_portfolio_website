@@ -19,7 +19,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: 'Hey! I''m Komal - '
+    title: Hey! I'm Komal - an A
     subtitle: Fresh. Better. Faster.
     text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
     actions:

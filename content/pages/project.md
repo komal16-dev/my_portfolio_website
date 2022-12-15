@@ -39,7 +39,7 @@ sections:
         title: Interactive Dashboard
         actions:
           - type: Button
-            label: Learn more
+            label: Read more
             showIcon: true
             icon: arrowRight
             url: /project/project2

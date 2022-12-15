@@ -71,7 +71,7 @@
         "case": "none",
         "letterSpacing": "normal",
         "borderRadius": "none",
-        "borderStyle": "solid",
+        "borderStyle": "dashed",
         "horizontalPadding": 20,
         "verticalPadding": 10,
         "shadow": "none"

@@ -30,7 +30,7 @@ sections:
         showIcon: true
         icon: arrowRight
         style: primary
-        url: /
+        url: /projects
     media:
       type: ImageBlock
       url: /images/hero-2.png

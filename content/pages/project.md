@@ -7,21 +7,6 @@ socialImage: null
 metaTags: []
 title: Projects Name
 sections:
-  - type: DividerSection
-    colors: colors-d
-    elementId: ''
-    title: Divider
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: ContactSection
     colors: colors-d
     title: Join our club

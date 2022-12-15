@@ -37,7 +37,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/hero-2.png
-      altText: Hero image
+      altText: Komal Gangurde
     backgroundImage: null
     styles:
       self:

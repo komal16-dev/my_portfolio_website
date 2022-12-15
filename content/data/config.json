@@ -57,7 +57,6 @@
         }
     },
     "footer": {
-        "variant": "variant-a",
         "colors": "colors-d",
         "title": "Say hello!!",
         "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",

@@ -56,7 +56,7 @@ sections:
             borderRadius: medium
             borderWidth: 2
             borderStyle: dotted
-        subtitle: 'Import-Export '
+        subtitle: Import and Export of India(1997-2022)
     actions: []
     columns: 1
     spacingX: 30

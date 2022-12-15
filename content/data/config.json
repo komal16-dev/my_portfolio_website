@@ -83,7 +83,7 @@
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/komal-gangurde/",
                 "icon": "linkedin",
-                "style": "primary"
+                "style": "link"
             }
         ],
         "legalLinks": [

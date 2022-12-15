@@ -27,7 +27,7 @@ sections:
     actions:
       - type: Button
         label: Projects
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         style: primary
         url: /projects

@@ -76,7 +76,7 @@ sections:
         justifyContent: center
         borderRadius: x-large
         borderColor: border-primary
-        borderWidth: 3
+        borderWidth: 4
         borderStyle: double
         margin:
           - mt-1

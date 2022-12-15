@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Project
+title: Projects
 sections:
   - type: TextSection
     colors: colors-d

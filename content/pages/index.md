@@ -75,6 +75,7 @@ sections:
           - pl-4
         justifyContent: center
         borderRadius: large
+        borderColor: border-primary
       quote:
         textAlign: center
       name:

@@ -21,7 +21,6 @@ sections:
         iconPosition: right
         elementId: '1'
       - type: Link
-        label: Learn more
         altText: ''
         url: 'https://www.linkedin.com/in/komal-gangurde/'
         showIcon: true

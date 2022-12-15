@@ -93,7 +93,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-b
     elementId: ''
-    title: Key value propositions
+    title: Recent Projects
     subtitle: ''
     items:
       - type: FeaturedItem

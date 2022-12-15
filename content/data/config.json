@@ -23,7 +23,7 @@
             },
             {
                 "type": "Link",
-                "label": "Adventures",
+                "label": "projects",
                 "url": "/blog",
                 "altText": ""
             }

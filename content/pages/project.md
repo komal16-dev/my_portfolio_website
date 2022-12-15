@@ -59,6 +59,7 @@ sections:
             borderColor: border-dark
             borderRadius: medium
             borderWidth: 2
+            borderStyle: dotted
     actions: []
     columns: 1
     spacingX: 16

@@ -31,7 +31,7 @@ sections:
         altText: ''
         url: 'https://github.com/komal16-dev'
         showIcon: false
-        icon: arrowRight
+        icon: github
         iconPosition: right
         elementId: ''
     media:

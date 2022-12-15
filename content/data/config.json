@@ -20,6 +20,17 @@
                 "label": "About",
                 "url": "/about",
                 "altText": ""
+            },
+            {
+                "type": "Button",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/project",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "secondaryLinks": [

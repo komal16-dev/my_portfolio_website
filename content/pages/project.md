@@ -42,7 +42,7 @@ sections:
             label: Learn more
             showIcon: true
             icon: arrowRight
-            url: /
+            url: /project/project2
             style: primary
         styles:
           self:

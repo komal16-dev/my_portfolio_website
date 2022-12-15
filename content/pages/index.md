@@ -127,7 +127,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         actions:
           - type: Button
-            label: Learn more
+            label: cont
             showIcon: true
             icon: arrowRight
             url: /project/project2

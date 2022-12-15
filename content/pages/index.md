@@ -34,6 +34,14 @@ sections:
         icon: github
         iconPosition: right
         elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: komalgangurde00@gmail.com
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/hero-2.png

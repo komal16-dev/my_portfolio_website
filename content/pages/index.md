@@ -66,7 +66,7 @@ sections:
 
 
     name: Jodi Picoult
-    title: Head chef at Parks
+    title: American Author
     styles:
       self:
         height: auto

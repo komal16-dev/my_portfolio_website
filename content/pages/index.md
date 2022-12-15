@@ -73,7 +73,7 @@ sections:
           - pb-36
           - pr-4
           - pl-4
-        justifyContent: center
+        justifyContent: flex-start
         borderRadius: x-large
         borderColor: border-primary
         borderWidth: 4

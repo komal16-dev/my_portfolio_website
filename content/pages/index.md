@@ -90,48 +90,6 @@ sections:
         textAlign: center
       title:
         textAlign: center
-  - elementId: ''
-    colors: colors-b
-    variant: variant-a
-    title: Recent Projects..
-    actions:
-      - type: Link
-        label: All Projects
-        url: /project
-        showIcon: true
-        icon: arrowRight
-    posts: []
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: FeaturedPostsSection
-    showDate: false
-    showExcerpt: true
-    showReadMoreLink: true
-    showAuthor: false
-    readMoreLinkLabel: Read more
   - type: ContactSection
     colors: colors-d
     title: Join our club

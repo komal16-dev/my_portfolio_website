@@ -26,7 +26,7 @@ sections:
         width: narrow
         padding:
           - pt-6
-          - pb-6
+          - pb-9
           - pr-4
           - pl-4
         justifyContent: center

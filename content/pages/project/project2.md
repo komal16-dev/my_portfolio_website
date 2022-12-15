@@ -10,7 +10,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-c
     elementId: ''
-    subtitle: ''
+    subtitle: Import and Export of India(1997-2022)
     items:
       - type: FeaturedItem
         title: Faster

@@ -27,6 +27,7 @@ sections:
             textAlign: left
             padding:
               - pt-24
+              - pl-24
         subtitle: Ali Ahmed's YouTube Channel
       - type: FeaturedItem
         title: Smarter

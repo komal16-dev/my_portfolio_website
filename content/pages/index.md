@@ -19,7 +19,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: Hey! I'm Komal - an A
+    title: Hey! I'm Komal - An Aspiring Data Analyst
     subtitle: Fresh. Better. Faster.
     text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
     actions:

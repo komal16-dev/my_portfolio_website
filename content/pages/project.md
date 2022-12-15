@@ -29,7 +29,7 @@ sections:
         styles:
           self:
             textAlign: left
-        subtitle: 'Ali Ahmed''s '
+        subtitle: Ali Ahmed's YouTube Channel
       - type: FeaturedItem
         title: Smarter
         text: >-

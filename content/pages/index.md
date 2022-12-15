@@ -104,7 +104,7 @@ sections:
             showIcon: true
             icon: arrowRight
             url: /project/project1
-            style: secondary
+            style: primary
             iconPosition: right
         styles:
           self:

@@ -10,7 +10,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-d
     elementId: ''
-    title: Key value propositions
+    title: YOUTUBE API
     subtitle: ''
     items:
       - type: FeaturedItem

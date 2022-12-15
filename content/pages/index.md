@@ -38,7 +38,7 @@ sections:
         altText: ''
         url: komalgangurde00@gmail.com
         showIcon: true
-        icon: arrowRight
+        icon: mail
         iconPosition: right
         elementId: ''
     media:

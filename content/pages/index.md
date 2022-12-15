@@ -96,7 +96,7 @@ sections:
     title: Recent Projects..
     actions:
       - type: Link
-        label: See all adventures
+        label: All Projects
         url: /Projects
         showIcon: true
         icon: arrowRight

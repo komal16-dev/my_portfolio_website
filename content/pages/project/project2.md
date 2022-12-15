@@ -13,10 +13,8 @@ sections:
     subtitle: Import and Export of India(1997-2022)
     items:
       - type: FeaturedItem
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          Description of project
         actions:
           - type: Button
             label: Learn more

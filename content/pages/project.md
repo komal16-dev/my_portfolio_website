@@ -36,7 +36,7 @@ sections:
             borderStyle: dotted
         subtitle: Ali Ahmed's YouTube Channel
       - type: FeaturedItem
-        title: I
+        title: 'Interactive '
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas

@@ -37,7 +37,7 @@ sections:
           caption: Caption of the image
           elementId: ''
     actions: []
-    columns: 3
+    columns: 1
     spacingX: 16
     spacingY: 16
     enableHover: false

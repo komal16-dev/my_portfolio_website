@@ -74,7 +74,7 @@ sections:
           - pr-5
           - pl-5
         justifyContent: center
-        borderRadius: x-large
+        borderRadius: none
         borderColor: border-primary
         borderWidth: 4
         borderStyle: double

@@ -36,7 +36,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/IMG_20200412_212117.jpg
+      url: /images/IMG_20200412_212117-a5131427.jpg
       altText: Komal Gangurde
     backgroundImage: null
     styles:

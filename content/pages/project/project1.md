@@ -11,7 +11,7 @@ sections:
     colors: colors-d
     elementId: ''
     title: YOUTUBE API
-    subtitle: 'Ali Ahmed''s Youtube '
+    subtitle: 'Ali Ahmed''s Youtube Channel '
     items:
       - type: FeaturedItem
         title: Faster

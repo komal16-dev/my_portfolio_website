@@ -156,7 +156,7 @@ sections:
         justifyContent: flex-start
   - type: ContactSection
     colors: colors-d
-    title: Join our club
+    title: Join community
     text: |
       We will notify you every time a  new blog or project is posted
     form:

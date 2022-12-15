@@ -31,7 +31,7 @@
                 "type": "Link",
                 "label": "Blogs",
                 "altText": "",
-                "url": "Blogs",
+                "url": "/blog",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",

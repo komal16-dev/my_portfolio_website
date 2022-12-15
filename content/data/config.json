@@ -111,7 +111,8 @@
             "emailAltText": "Email",
             "addressAltText": "Address",
             "elementId": ""
-        }
+        },
+        "variant": "variant-b"
     },
     "defaultMetaTags": []
 }

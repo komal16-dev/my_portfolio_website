@@ -10,7 +10,6 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-c
     elementId: ''
-    title: Import and Export of India(1997-2022)
     subtitle: ''
     items:
       - type: FeaturedItem

@@ -105,6 +105,7 @@ sections:
             icon: arrowRight
             url: /project/project1
             style: secondary
+            iconPosition: right
         styles:
           self:
             textAlign: left

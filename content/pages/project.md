@@ -29,6 +29,7 @@ sections:
               - pt-24
               - pl-24
               - pr-24
+              - pb-24
         subtitle: Ali Ahmed's YouTube Channel
       - type: FeaturedItem
         title: Smarter

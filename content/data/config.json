@@ -42,7 +42,7 @@
             {
                 "type": "Button",
                 "label": "Contact us",
-                "url": "mailto:info@lorem.mail",
+                "url": "komalgangurde00@gmail.com",
                 "altText": "Contact us",
                 "style": "secondary",
                 "showIcon": true,

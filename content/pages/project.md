@@ -63,7 +63,7 @@ sections:
     actions: []
     columns: 1
     spacingX: 16
-    spacingY: 16
+    spacingY: 31
     enableHover: false
     styles:
       self:

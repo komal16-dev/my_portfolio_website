@@ -102,7 +102,6 @@ sections:
         icon: arrowRight
     posts:
       - content/pages/blog/post-four.md
-      - content/pages/blog/postlayout-4wk8lkubc.md
     styles:
       self:
         height: auto

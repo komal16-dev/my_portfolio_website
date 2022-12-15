@@ -9,7 +9,6 @@ title: Blog names
 sections:
   - type: HeroSection
     colors: colors-d
-    title: We do fishing differently
     subtitle: Fresh. Better. Faster.
     actions:
       - type: Button

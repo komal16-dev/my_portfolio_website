@@ -22,7 +22,7 @@ sections:
     media: null
     backgroundImage:
       type: BackgroundImage
-      url: /images/hero.webp
+      url: /images/coming soon.jpg
       backgroundSize: cover
       backgroundPosition: top
       opacity: 100

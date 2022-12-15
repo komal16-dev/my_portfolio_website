@@ -38,7 +38,7 @@ sections:
         textAlign: left
   - type: ContactSection
     colors: colors-a
-    title: Join our Community
+    title: Join Community
     text: >
       We will notify you every time a shipment is heading to your neighborhood,
       and you could immediatly let us know if you want in or not

@@ -23,12 +23,6 @@
             },
             {
                 "type": "Link",
-                "label": "Projects",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Blogs",
                 "altText": "",
                 "url": "/blog",

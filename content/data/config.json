@@ -74,7 +74,8 @@
                 "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
-                "icon": "instagram"
+                "icon": "instagram",
+                "url": "https://github.com/komal16-dev"
             },
             {
                 "type": "Social",

@@ -111,7 +111,7 @@ sections:
             textAlign: left
         featuredImage:
           type: ImageBlock
-          url: /images/youtube_api.png
+          url: /images/youtube_api-d049149c.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''

@@ -82,7 +82,8 @@
                 "altText": "LinkedIn",
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/komal-gangurde/",
-                "icon": "linkedin"
+                "icon": "linkedin",
+                "style": "primary"
             }
         ],
         "legalLinks": [

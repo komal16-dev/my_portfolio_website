@@ -107,7 +107,7 @@ sections:
             label: Learn more
             showIcon: true
             icon: arrowRight
-            url: /project1
+            url: /project/project1
             style: secondary
         styles:
           self:

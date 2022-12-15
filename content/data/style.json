@@ -52,7 +52,7 @@
     "primary": "#DD99BB",
     "onPrimary": "#ffffff",
     "secondary": "#DD99BB",
-    "onSecondary": "#9CE37D",
+    "onSecondary": "#000000",
     "complementary": "#DD99BB",
     "onComplementary": "#9CE37D",
     "complementaryAlt": "#9CE37D",

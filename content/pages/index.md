@@ -129,7 +129,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedPostsSection
-    showDate: true
+    showDate: false
     showExcerpt: true
     showReadMoreLink: true
     readMoreLinkLabel: Join adventure

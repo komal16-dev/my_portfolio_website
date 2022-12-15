@@ -15,13 +15,7 @@ sections:
       - type: FeaturedItem
         text: |
           Description of project
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: primary
+        actions: []
         styles:
           self:
             textAlign: left

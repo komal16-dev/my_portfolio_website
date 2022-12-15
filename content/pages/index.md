@@ -81,6 +81,7 @@ sections:
         margin:
           - mt-1
           - mr-1
+          - mb-1
       quote:
         textAlign: center
       name:

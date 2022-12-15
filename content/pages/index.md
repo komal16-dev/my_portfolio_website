@@ -80,6 +80,7 @@ sections:
         borderStyle: double
         margin:
           - mt-1
+          - mr-1
       quote:
         textAlign: center
       name:

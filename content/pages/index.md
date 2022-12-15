@@ -82,6 +82,7 @@ sections:
           - mt-1
           - mr-1
           - mb-1
+          - ml-1
       quote:
         textAlign: center
       name:

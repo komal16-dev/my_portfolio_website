@@ -140,7 +140,7 @@ sections:
     showExcerpt: false
     showReadMoreLink: true
     readMoreLinkLabel: Join adventure
-    variant: variant-b
+    variant: variant-a
     actions: []
     styles:
       self:

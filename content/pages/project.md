@@ -51,6 +51,11 @@ sections:
         styles:
           self:
             textAlign: left
+            padding:
+              - pt-24
+              - pl-24
+              - pb-24
+              - pr-24
     actions: []
     columns: 1
     spacingX: 16

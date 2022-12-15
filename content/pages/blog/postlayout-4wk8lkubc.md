@@ -8,7 +8,7 @@ colors: colors-d
 date: '2020-10-05'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/post-4.jpg
   altText: Post thumbnail image
   caption: ''
 media:

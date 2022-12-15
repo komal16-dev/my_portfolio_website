@@ -25,7 +25,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Contact us",
+                "label": "Contact Me",
                 "url": "komalgangurde00@gmail.com",
                 "altText": "Contact us",
                 "style": "secondary",

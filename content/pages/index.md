@@ -78,6 +78,8 @@ sections:
         borderColor: border-dark
         borderWidth: 3
         borderStyle: double
+        margin:
+          - mt-1
       quote:
         textAlign: center
       name:

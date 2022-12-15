@@ -20,7 +20,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Hey! I'm Komal - An Aspiring Data Analyst
-    subtitle: Learning. Creativity. .
+    subtitle: Learning. Creativity. Curosity.
     text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
     actions:
       - type: Button

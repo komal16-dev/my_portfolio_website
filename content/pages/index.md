@@ -32,6 +32,7 @@ sections:
         style: primary
         url: /projects
         iconPosition: right
+        elementId: '1'
     media:
       type: ImageBlock
       url: /images/hero-2.png

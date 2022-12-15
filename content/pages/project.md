@@ -20,7 +20,7 @@ sections:
             label: Learn more
             showIcon: true
             icon: arrowRight
-            url: /
+            url: /project/project1
             style: primary
         styles:
           self:

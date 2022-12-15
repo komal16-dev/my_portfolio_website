@@ -25,7 +25,7 @@ sections:
         altText: ''
         url: 'https://www.linkedin.com/in/komal-gangurde/'
         showIcon: false
-        icon: arrowRight
+        icon: linkedin
         iconPosition: right
         elementId: ''
     media:

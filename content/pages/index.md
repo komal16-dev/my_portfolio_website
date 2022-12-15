@@ -16,7 +16,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: HeroSection
-    colors: colors-d
+    colors: colors-a
     elementId: ''
     backgroundSize: full
     title: Hey! I'm Komal - An Aspiring Data Analyst

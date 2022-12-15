@@ -77,7 +77,7 @@ sections:
         borderRadius: large
         borderColor: border-primary
         borderWidth: 5
-        borderStyle: dotted
+        borderStyle: double
       quote:
         textAlign: center
       name:

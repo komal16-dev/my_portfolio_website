@@ -130,7 +130,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/import_export.png
-          altText: altText of the image
+          altText: Import Export
           caption: Caption of the image
           elementId: ''
         subtitle: Import and Export of India(1997-2022)

@@ -60,9 +60,11 @@ sections:
         justifyContent: flex-start
   - type: QuoteSection
     colors: colors-d
-    quote: >-
-      “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks.”
+    quote: |+
+      "You can always edit a bad page. You can’t edit a blank page"
+
+
+
     name: Isabelle Parks
     title: Head chef at Parks
     styles:

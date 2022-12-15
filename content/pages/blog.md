@@ -9,14 +9,7 @@ title: Blog names
 sections:
   - type: HeroSection
     colors: colors-d
-    actions:
-      - type: Button
-        label: Get Started
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media: null
     backgroundImage:
       type: BackgroundImage

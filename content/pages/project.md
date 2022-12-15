@@ -29,12 +29,6 @@ sections:
         styles:
           self:
             textAlign: left
-        featuredImage:
-          type: ImageBlock
-          url: /images/import_export.png
-          altText: altText of the image
-          caption: Caption of the image
-          elementId: ''
       - type: FeaturedItem
         title: Smarter
         text: >-

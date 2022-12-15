@@ -72,7 +72,7 @@ sections:
           - pt-0
           - pb-36
           - pr-4
-          - pl-4
+          - pl-1
         justifyContent: center
         borderRadius: x-large
         borderColor: border-primary

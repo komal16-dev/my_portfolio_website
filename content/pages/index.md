@@ -37,7 +37,7 @@ sections:
       - type: Link
         altText: ''
         url: komalgangurde00@gmail.com
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''

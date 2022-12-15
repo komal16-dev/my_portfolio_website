@@ -19,7 +19,7 @@ sections:
     colors: colors-d
     variant: variant-a
     title: About Me
-    text: "## Hello there! This is Komal**\U0001F64C\U0001F3FD**\n\n## I'm an aspiring data analyst who likes to play with data for extracting useful information and visualize it accurately for easy understanding..\n\n## In my free time I love to listen to music and watch drama.\n\n"
+    text: "##### Hello there! This is Komal**\U0001F64C\U0001F3FD**\n\n##### I'm an aspiring data analyst who likes to play with data for extracting useful information and visualize it accurately for easy understanding..\n\n##### In my free time I love to listen to music and watch drama.\n\n"
     styles:
       self:
         height: auto

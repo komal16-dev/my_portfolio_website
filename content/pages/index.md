@@ -97,7 +97,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 'YouTube API - Analyzing '
+        title: YouTube API - Analyzing Ali Ahme
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas

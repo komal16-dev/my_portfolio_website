@@ -20,16 +20,6 @@
                 "label": "About",
                 "url": "/about",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blogs",
-                "altText": "",
-                "url": "/blog",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
             }
         ],
         "secondaryLinks": [

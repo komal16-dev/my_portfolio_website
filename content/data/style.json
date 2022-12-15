@@ -46,7 +46,7 @@
     "fontBody": "fontSecondary",
     "main": "#0E0F19",
     "light": "#ffffff",
-    "onLight": "#DD99BB",
+    "onLight": "#0E0F19",
     "dark": "#DD99BB",
     "onDark": "#ffffff",
     "primary": "#D16F5A",

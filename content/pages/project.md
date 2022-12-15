@@ -36,7 +36,7 @@ sections:
             borderStyle: dotted
         subtitle: Ali Ahmed's YouTube Channel
       - type: FeaturedItem
-        title: Smarter
+        title: I
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas

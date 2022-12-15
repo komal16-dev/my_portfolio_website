@@ -144,7 +144,7 @@ sections:
           elementId: ''
     actions: []
     columns: 2
-    spacingX: 43
+    spacingX: 50
     spacingY: 16
     enableHover: true
     styles:

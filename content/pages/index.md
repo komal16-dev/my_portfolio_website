@@ -61,7 +61,7 @@ sections:
   - type: QuoteSection
     colors: colors-c
     quote: |
-      **"You can always edit a bad page. You can’t edit a blank page"**
+      **'You can always edit a bad page. You can’t edit a blank page'**
     name: Jodi Picoult
     title: American Author
     styles:

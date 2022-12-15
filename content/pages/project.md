@@ -10,7 +10,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-c
     elementId: ''
-    title: Key value propositions
+    title: PROJECTS
     subtitle: ''
     items:
       - type: FeaturedItem

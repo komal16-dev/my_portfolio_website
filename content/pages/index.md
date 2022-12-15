@@ -66,7 +66,7 @@ sections:
 
 
     name: Jodi Picoult
-    title: American Author w
+    title: 'American Author who wrote '
     styles:
       self:
         height: auto

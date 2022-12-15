@@ -60,6 +60,7 @@ sections:
             borderRadius: medium
             borderWidth: 2
             borderStyle: dotted
+        subtitle: Impo
     actions: []
     columns: 1
     spacingX: 30

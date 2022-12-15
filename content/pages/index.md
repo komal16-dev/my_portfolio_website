@@ -77,7 +77,7 @@ sections:
         borderRadius: none
         borderColor: border-complementary
         borderWidth: 4
-        borderStyle: double
+        borderStyle: none
         margin:
           - mt-1
           - mr-1

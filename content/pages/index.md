@@ -76,7 +76,7 @@ sections:
         justifyContent: center
         borderRadius: large
         borderColor: border-primary
-        borderWidth: 5
+        borderWidth: 3
         borderStyle: double
       quote:
         textAlign: center

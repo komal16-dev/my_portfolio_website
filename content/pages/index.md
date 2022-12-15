@@ -141,7 +141,15 @@ sections:
           url: >-
             https://assets.stackbit.com/components/images/default/default-image.png
           altText: Item image
-        actions: []
+        actions:
+          - type: Link
+            label: Learn more
+            altText: ''
+            url: /project
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
         styles:
           self:
             textAlign: left

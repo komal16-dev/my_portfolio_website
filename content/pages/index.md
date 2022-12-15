@@ -17,7 +17,7 @@ sections:
         showIcon: true
         icon: arrowRight
         style: primary
-        url: /projects
+        url: /project
         iconPosition: right
         elementId: '1'
       - type: Link

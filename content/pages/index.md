@@ -97,7 +97,7 @@ sections:
     actions:
       - type: Link
         label: All Projects
-        url: /projects
+        url: /project
         showIcon: true
         icon: arrowRight
     posts: []

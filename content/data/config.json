@@ -48,7 +48,8 @@
                 "style": "secondary",
                 "showIcon": true,
                 "icon": "arrowRight",
-                "iconPosition": "right"
+                "iconPosition": "right",
+                "url": "/"
             }
         ],
         "styles": {
